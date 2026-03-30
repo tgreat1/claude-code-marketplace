@@ -1,10 +1,10 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "netresearch-claude-code-marketplace",
-  "description": "Curated Agentic Skills for AI coding agents — TYPO3, PHP, Go, Docker, Jira, security, and more. Platform-agnostic skills following the open Agent Skills specification.",
   "owner": {
-    "name": "Netresearch DTT GmbH",
-    "url": "https://www.netresearch.de"
+    "name": "Netresearch DTT GmbH"
+  },
+  "metadata": {
+    "description": "Curated Agentic Skills for AI coding agents — TYPO3, PHP, Go, Docker, Jira, security, and more. Platform-agnostic skills following the open Agent Skills specification."
   },
   "plugins": [
     {
